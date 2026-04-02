@@ -1,7 +1,8 @@
 {
   "packages": [
     {
-      "id": "pkg_cox",
+      "id": "1",
+      "name": "Cox's Bazar",
       "title": "Cox's Bazar Sea Escape",
       "location": "Cox's Bazar",
       "duration": "3 Days 2 Nights",
@@ -28,7 +29,8 @@
     },
 
     {
-      "id": "pkg_stmartin",
+      "id": "2",
+      "name": "Saint Martin",
       "title": "Saint Martin Island Tour",
       "location": "Saint Martin",
       "duration": "3 Days 2 Nights",
@@ -51,7 +53,8 @@
     },
 
     {
-      "id": "pkg_kuakata",
+      "id": "3",
+      "name": "Kuakata",
       "title": "Kuakata Sunrise & Sunset Tour",
       "location": "Kuakata",
       "duration": "3 Days 2 Nights",
@@ -74,7 +77,8 @@
     },
 
     {
-      "id": "pkg_sajek",
+      "id": "4",
+      "name": "Sajek Valley",
       "title": "Sajek Valley Cloud Adventure",
       "location": "Sajek",
       "duration": "2 Days 1 Night",
@@ -97,7 +101,8 @@
     },
 
     {
-      "id": "pkg_bandarban",
+      "id": "5",
+      "name": "Bandarban",
       "title": "Bandarban Hill Adventure",
       "location": "Bandarban",
       "duration": "3 Days 2 Nights",
@@ -124,7 +129,8 @@
     },
 
     {
-      "id": "pkg_rangamati",
+      "id": "6",
+      "name": "Rangamati",
       "title": "Rangamati Lake & Nature Tour",
       "location": "Rangamati",
       "duration": "2 Days 1 Night",
@@ -147,7 +153,8 @@
     },
 
     {
-      "id": "pkg_sundarban",
+      "id": "7",
+      "name": "Sundarban",
       "title": "Sundarbans Wildlife Tour",
       "location": "Sundarbans",
       "duration": "3 Days 2 Nights",
@@ -170,7 +177,8 @@
     },
 
     {
-      "id": "pkg_sreemangal",
+      "id": "8",
+      "name": "Sreemangal",
       "title": "Sreemangal Tea Garden Escape",
       "location": "Sreemangal",
       "duration": "2 Days 1 Night",
