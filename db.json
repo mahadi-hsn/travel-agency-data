@@ -1,0 +1,195 @@
+{
+  "packages": [
+    {
+      "id": "pkg_cox",
+      "title": "Cox's Bazar Sea Escape",
+      "location": "Cox's Bazar",
+      "duration": "3 Days 2 Nights",
+      "price": 5000,
+      "hotel": ["Hotel Sea Crown", "Hotel Kollol"],
+      "transport": {
+        "fromDhaka": "AC Bus",
+        "local": "Microbus"
+      },
+      "spots": [
+        {
+          "name": "Cox's Bazar Sea Beach",
+          "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+        },
+        {
+          "name": "Inani Beach",
+          "image": "https://images.unsplash.com/photo-1473116763249-2faaef81ccda"
+        },
+        {
+          "name": "Himchori",
+          "image": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429"
+        }
+      ]
+    },
+
+    {
+      "id": "pkg_stmartin",
+      "title": "Saint Martin Island Tour",
+      "location": "Saint Martin",
+      "duration": "3 Days 2 Nights",
+      "price": 7000,
+      "hotel": ["Blue Marine Resort"],
+      "transport": {
+        "fromDhaka": "Bus + Ship",
+        "local": "Walking / Van"
+      },
+      "spots": [
+        {
+          "name": "Saint Martin Beach",
+          "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+        },
+        {
+          "name": "Chera Dwip",
+          "image": "https://images.unsplash.com/photo-1493558103817-58b2924bce98"
+        }
+      ]
+    },
+
+    {
+      "id": "pkg_kuakata",
+      "title": "Kuakata Sunrise & Sunset Tour",
+      "location": "Kuakata",
+      "duration": "3 Days 2 Nights",
+      "price": 6000,
+      "hotel": ["Kuakata Grand Hotel"],
+      "transport": {
+        "fromDhaka": "Bus",
+        "local": "Auto"
+      },
+      "spots": [
+        {
+          "name": "Kuakata Sea Beach",
+          "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+        },
+        {
+          "name": "Fatrar Char",
+          "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+        }
+      ]
+    },
+
+    {
+      "id": "pkg_sajek",
+      "title": "Sajek Valley Cloud Adventure",
+      "location": "Sajek",
+      "duration": "2 Days 1 Night",
+      "price": 4500,
+      "hotel": ["Sajek Resort"],
+      "transport": {
+        "fromDhaka": "Bus",
+        "local": "Jeep"
+      },
+      "spots": [
+        {
+          "name": "Sajek Valley",
+          "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+        },
+        {
+          "name": "Konglak Hill",
+          "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e"
+        }
+      ]
+    },
+
+    {
+      "id": "pkg_bandarban",
+      "title": "Bandarban Hill Adventure",
+      "location": "Bandarban",
+      "duration": "3 Days 2 Nights",
+      "price": 7000,
+      "hotel": ["Hill Resort"],
+      "transport": {
+        "fromDhaka": "Bus",
+        "local": "Jeep"
+      },
+      "spots": [
+        {
+          "name": "Nilgiri",
+          "image": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429"
+        },
+        {
+          "name": "Nilachal",
+          "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7"
+        },
+        {
+          "name": "Boga Lake",
+          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+        }
+      ]
+    },
+
+    {
+      "id": "pkg_rangamati",
+      "title": "Rangamati Lake & Nature Tour",
+      "location": "Rangamati",
+      "duration": "2 Days 1 Night",
+      "price": 4000,
+      "hotel": ["Lake View Resort"],
+      "transport": {
+        "fromDhaka": "Bus",
+        "local": "Boat"
+      },
+      "spots": [
+        {
+          "name": "Kaptai Lake",
+          "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+        },
+        {
+          "name": "Hanging Bridge",
+          "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7"
+        }
+      ]
+    },
+
+    {
+      "id": "pkg_sundarban",
+      "title": "Sundarbans Wildlife Tour",
+      "location": "Sundarbans",
+      "duration": "3 Days 2 Nights",
+      "price": 8000,
+      "hotel": ["Boat Stay"],
+      "transport": {
+        "fromDhaka": "Bus",
+        "local": "Boat"
+      },
+      "spots": [
+        {
+          "name": "Mangrove Forest",
+          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+        },
+        {
+          "name": "Wildlife Zone",
+          "image": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e"
+        }
+      ]
+    },
+
+    {
+      "id": "pkg_sreemangal",
+      "title": "Sreemangal Tea Garden Escape",
+      "location": "Sreemangal",
+      "duration": "2 Days 1 Night",
+      "price": 5000,
+      "hotel": ["Tea Resort"],
+      "transport": {
+        "fromDhaka": "Train",
+        "local": "Car"
+      },
+      "spots": [
+        {
+          "name": "Tea Gardens",
+          "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7"
+        },
+        {
+          "name": "Lawachara Forest",
+          "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e"
+        }
+      ]
+    }
+  ]
+}
